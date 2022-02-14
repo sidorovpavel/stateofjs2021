@@ -161,12 +161,12 @@
  
 ## Блоги и журналы
  
-- CSS-Tricks
+- [CSS-Tricks](https://css-tricks.com/)
 - [A List Apart](https://alistapart.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Codrops](https://tympanus.net/codrops/)
 - [SitePoint](https://www.sitepoint.com/)
-- Dev.to
+- [Dev.to](https://dev.to/)
 - DailyJS
 - Echo JS
 - Front-End Front
