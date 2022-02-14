@@ -162,10 +162,10 @@
 ## Блоги и журналы
  
 - CSS-Tricks
-- A List Apart
-- Smashing Magazine
-- Codrops
-- SitePoint
+- [A List Apart](https://alistapart.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Codrops](https://tympanus.net/codrops/)
+- [SitePoint](https://www.sitepoint.com/)
 - Dev.to
 - DailyJS
 - Echo JS
